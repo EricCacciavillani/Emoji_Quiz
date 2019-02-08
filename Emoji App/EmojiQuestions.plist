@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Movie_Questions</key>
+	<dict>
+		<key>👹🚪🏢</key>
+		<string>Monster Inc</string>
+		<key>❄️🦸‍♀️</key>
+		<string>Frozen</string>
+		<key>🏎️🚜</key>
+		<string>Cars</string>
+		<key>🦈🛥️</key>
+		<string>Jaws</string>
+		<key>👽🚲</key>
+		<string>The Extra Terrestrial</string>
+		<key>🎈🏠🎈</key>
+		<string>Up</string>
+		<key>🏎️🐝🤖</key>
+		<string>Bumblebee</string>
+		<key>🔱🦸‍♂️ </key>
+		<string>Aquaman</string>
+		<key>🕷🦸‍♂️</key>
+		<string>Spider Man</string>
+		<key>👸🏿🐸</key>
+		<string>Princess and the Frog</string>
+	</dict>
+	<key>Book_Questions</key>
+	<dict>
+		<key>👹✍️👩</key>
+		<string>Frankenstein</string>
+		<key>🤪🏃</key>
+		<string>Maniac Magee</string>
+		<key>📖 😩🧒</key>
+		<string>Diary of a Wimpy Kid</string>
+		<key>🤴👸💀🎭</key>
+		<string>Romeo and Juliet</string>
+		<key>🧙‍♂🙆‍♂️🎩</key>
+		<string>Harry Potter</string>
+		<key>🐦💀</key>
+		<string>To Kill a Mockingbird</string>
+		<key>🖥️🎭</key>
+		<string>Macbeth</string>
+		<key>🐖🎭</key>
+		<string>Hamlet</string>
+		<key>⛈️🦹‍♂️</key>
+		<string>The Lighting Thief</string>
+		<key>🐖👨</key>
+		<string>The pigman</string>
+	</dict>
+	<key>Game_Questions</key>
+	<dict>
+		<key>🙏⚔️💀</key>
+		<string>God of War</string>
+		<key>👹👖</key>
+		<string>Pokemon</string>
+		<key>😱👹🔥</key>
+		<string>Doom</string>
+		<key>🤖🎼🛡️</key>
+		<string>Anthem</string>
+		<key>🚀🥇🥈🥉</key>
+		<string>Rocket League</string>
+		<key>📦⛏️👨🏻‍🏭</key>
+		<string>Minecraft</string>
+		<key>🏰🌙</key>
+		<string>Fortnite</string>
+		<key>📱💩</key>
+		<string>Call of Duty</string>
+		<key>😇🛡️🦸‍♂️</key>
+		<string>Halo</string>
+		<key>🐱🤖🔧</key>
+		<string>Ratchet and Clank</string>
+	</dict>
+</dict>
+</plist>

@@ -10,11 +10,14 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var questionCounterLabel: UILabel!
+    
+    @IBAction func questionStepper(_ sender: UIStepper) {
+        questionCounterLabel.text = "Question: " + Int(sender.value).description
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
-
-
 }
 
